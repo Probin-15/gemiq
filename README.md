@@ -32,6 +32,9 @@ With a clean interface and smart capabilities, GemIQ helps you get more done —
 ---
 
 ![imaeg alt](https://github.com/Probin-15/gemiq/blob/2d101e6d32ed148413f1dbf1860fa8d787bcee78/images/picture1.png)
+
 ![image alt](https://github.com/Probin-15/gemiq/blob/2d101e6d32ed148413f1dbf1860fa8d787bcee78/images/picture2.png)
+
 ![image alt](https://github.com/Probin-15/gemiq/blob/2d101e6d32ed148413f1dbf1860fa8d787bcee78/images/picture3.png)
+
 ![image alt](https://github.com/Probin-15/gemiq/blob/2d101e6d32ed148413f1dbf1860fa8d787bcee78/images/picture4.png)
